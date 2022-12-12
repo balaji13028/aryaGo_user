@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:4:4-35:19
-MERGED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-18:19
-MERGED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-18:19
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:4:4-35:19
+MERGED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-18:19
+MERGED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-18:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/5418776e430a46510ae04f564f0d75bf/transformed/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
@@ -22,18 +22,18 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/scho
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:5:9-36
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:5:9-36
 	android:icon
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:7:9-43
 	android:name
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:6:9-42
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:6:9-42
 manifest
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-MERGED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/5418776e430a46510ae04f564f0d75bf/transformed/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
@@ -71,33 +71,33 @@ MERGED from [androidx.print:print:1.0.0] /Users/scholarlysolutionssm/.gradle/cac
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/274a6366c1fa82a9cda5f98fe858df07/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/33022110ab8edaeede9665dd42ecaa6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
 	package
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:2:5-39
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:3:5-66
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:3:5-66
 	android:name
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-sdk
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-MERGED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+MERGED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -172,72 +172,72 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/scholarlysolutio
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/33022110ab8edaeede9665dd42ecaa6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml
 activity#com.example.arya_go_user.MainActivity
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:8:9-28:20
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:8:9-28:20
 	android:launchMode
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:11:13-43
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:11:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:14:13-47
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:14:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:15:13-55
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:15:13-55
 	android:exported
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:10:13-36
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:10:13-36
 	android:configChanges
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:13:13-163
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:13:13-163
 	android:theme
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:12:13-47
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:12:13-47
 	android:name
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:9:13-41
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:9:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:20:13-23:17
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:20:13-23:17
 	android:resource
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:22:15-52
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:22:15-52
 	android:name
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:21:15-70
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:21:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:24:13-27:29
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:25:17-68
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:25:17-68
 	android:name
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:25:25-66
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:26:17-76
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:26:17-76
 	android:name
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:26:27-74
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:26:27-74
 meta-data#flutterEmbedding
-ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:31:9-34:15
+ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:31:9-34:15
 	android:value
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:33:13-30
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:33:13-30
 	android:name
-		ADDED from /Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/AndroidManifest.xml:32:13-44
+		ADDED from /Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/AndroidManifest.xml:32:13-44
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
+ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-78
+		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
+ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-76
+		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-76
 service#com.lyokone.location.FlutterLocationService
-ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-17:56
+ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-17:56
 	android:enabled
-		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-35
+		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-35
 	android:exported
-		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
+		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
 	android:foregroundServiceType
-		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-53
+		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-53
 	android:name
-		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-71
+		ADDED from [:location] /Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-71
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/scholarlysolutionssm/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required

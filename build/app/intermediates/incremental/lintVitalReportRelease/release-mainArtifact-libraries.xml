@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/scholarlysolutionssm/Desktop/arya_go_user/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/scholarlysolutionssm/Desktop/arya_go_user/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/scholarlysolutionssm/Desktop/arya_go_user/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/scholarlysolutionssm/Desktop/arya_go_user/android@@:location::release"
-      jars="/Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/.transforms/d44687c398b7abaf4cfcf55d2529f20e/transformed/out/jars/classes.jar"
+      name="/Users/scholarlysolutionssm/Desktop/aryaGo_user/android@@:location::release"
+      jars="/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/.transforms/d14ddce9efb682b3077c55023e614c95/transformed/out/jars/classes.jar"
       resolved="com.lyokone.location:location:unspecified"
-      folder="/Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/.transforms/d44687c398b7abaf4cfcf55d2529f20e/transformed/out"
+      folder="/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/.transforms/d14ddce9efb682b3077c55023e614c95/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

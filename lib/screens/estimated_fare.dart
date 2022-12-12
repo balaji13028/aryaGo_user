@@ -1,5 +1,6 @@
 import 'package:arya_go_user/bottom_sheets/book_ride.dart';
 import 'package:arya_go_user/bottom_sheets/book_tour.dart';
+import 'package:arya_go_user/estimated%20Fare/t&c_page.dart';
 import 'package:arya_go_user/models/cars_model.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
@@ -308,30 +309,45 @@ class _EstimatedFareState extends State<EstimatedFare> {
                                                     height:
                                                         size.height * 0.018),
                                                 onselect[index]
-                                                    ? Container(
-                                                        height: 20,
-                                                        margin: const EdgeInsets
-                                                            .only(left: 5),
-                                                        alignment:
-                                                            Alignment.center,
-                                                        width:
-                                                            size.width * 0.15,
-                                                        decoration: BoxDecoration(
-                                                            color: const Color(
-                                                                0xffffea5b),
-                                                            borderRadius:
-                                                                BorderRadius
-                                                                    .circular(
-                                                                        4)),
-                                                        child: const Text(
-                                                          'Read T&C',
-                                                          style: TextStyle(
-                                                              color:
-                                                                  Colors.black,
-                                                              fontSize: 10,
-                                                              fontWeight:
-                                                                  FontWeight
-                                                                      .w300),
+                                                    ? GestureDetector(
+                                                        onTap: () {
+                                                          Navigator.push(
+                                                              context,
+                                                              MaterialPageRoute(
+                                                                  builder:
+                                                                      ((context) =>
+                                                                          TermsConditions(
+                                                                            carinfo:
+                                                                                normalCars[index],
+                                                                          ))));
+                                                        },
+                                                        child: Container(
+                                                          height: 20,
+                                                          margin:
+                                                              const EdgeInsets
+                                                                      .only(
+                                                                  left: 5),
+                                                          alignment:
+                                                              Alignment.center,
+                                                          width:
+                                                              size.width * 0.15,
+                                                          decoration: BoxDecoration(
+                                                              color: const Color(
+                                                                  0xffffea5b),
+                                                              borderRadius:
+                                                                  BorderRadius
+                                                                      .circular(
+                                                                          4)),
+                                                          child: const Text(
+                                                            'Read T&C',
+                                                            style: TextStyle(
+                                                                color: Colors
+                                                                    .black,
+                                                                fontSize: 10,
+                                                                fontWeight:
+                                                                    FontWeight
+                                                                        .w300),
+                                                          ),
                                                         ),
                                                       )
                                                     : SizedBox(),
@@ -374,7 +390,10 @@ class _EstimatedFareState extends State<EstimatedFare> {
                                 onTap: () {
                                   setState(() {
                                     onpackge = !onpackge;
-                                    onselect[indexvalue] = false;
+                                    print(indexvalue);
+                                    indexvalue == null || indexvalue == 'null'
+                                        ? null
+                                        : onselect[indexvalue] = false;
                                   });
                                 },
                                 child: DottedBorder(
@@ -478,26 +497,41 @@ class _EstimatedFareState extends State<EstimatedFare> {
                                             SizedBox(
                                                 height: size.height * 0.018),
                                             onpackge
-                                                ? Container(
-                                                    height: 20,
-                                                    margin:
-                                                        const EdgeInsets.only(
-                                                            left: 5),
-                                                    alignment: Alignment.center,
-                                                    width: size.width * 0.15,
-                                                    decoration: BoxDecoration(
-                                                        color: const Color(
-                                                            0xffffea5b),
-                                                        borderRadius:
-                                                            BorderRadius
-                                                                .circular(4)),
-                                                    child: const Text(
-                                                      'Read T&C',
-                                                      style: TextStyle(
-                                                          color: Colors.black,
-                                                          fontSize: 10,
-                                                          fontWeight:
-                                                              FontWeight.w300),
+                                                ? GestureDetector(
+                                                    onTap: () {
+                                                      Navigator.push(
+                                                          context,
+                                                          MaterialPageRoute(
+                                                              builder:
+                                                                  ((context) =>
+                                                                      TermsConditions(
+                                                                        carinfo:
+                                                                            normalCars[index],
+                                                                      ))));
+                                                    },
+                                                    child: Container(
+                                                      height: 20,
+                                                      margin:
+                                                          const EdgeInsets.only(
+                                                              left: 5),
+                                                      alignment:
+                                                          Alignment.center,
+                                                      width: size.width * 0.15,
+                                                      decoration: BoxDecoration(
+                                                          color: const Color(
+                                                              0xffffea5b),
+                                                          borderRadius:
+                                                              BorderRadius
+                                                                  .circular(4)),
+                                                      child: const Text(
+                                                        'Read T&C',
+                                                        style: TextStyle(
+                                                            color: Colors.black,
+                                                            fontSize: 10,
+                                                            fontWeight:
+                                                                FontWeight
+                                                                    .w300),
+                                                      ),
                                                     ),
                                                   )
                                                 : SizedBox(),
@@ -686,35 +720,47 @@ class _EstimatedFareState extends State<EstimatedFare> {
                                                           height: size.height *
                                                               0.018),
                                                       onselect[index]
-                                                          ? Container(
-                                                              height: 20,
-                                                              margin:
-                                                                  const EdgeInsets
-                                                                          .only(
-                                                                      left: 5),
-                                                              alignment:
-                                                                  Alignment
-                                                                      .center,
-                                                              width:
-                                                                  size.width *
-                                                                      0.15,
-                                                              decoration: BoxDecoration(
-                                                                  color: const Color(
-                                                                      0xffffea5b),
-                                                                  borderRadius:
-                                                                      BorderRadius
-                                                                          .circular(
-                                                                              4)),
-                                                              child: const Text(
-                                                                'Read T&C',
-                                                                style: TextStyle(
-                                                                    color: Colors
-                                                                        .black,
-                                                                    fontSize:
-                                                                        10,
-                                                                    fontWeight:
-                                                                        FontWeight
-                                                                            .w300),
+                                                          ? GestureDetector(
+                                                              onTap: () {
+                                                                Navigator.push(
+                                                                    context,
+                                                                    MaterialPageRoute(
+                                                                        builder: ((context) =>
+                                                                            TermsConditions(
+                                                                              carinfo: normalCars[index],
+                                                                            ))));
+                                                              },
+                                                              child: Container(
+                                                                height: 20,
+                                                                margin:
+                                                                    const EdgeInsets
+                                                                            .only(
+                                                                        left:
+                                                                            5),
+                                                                alignment:
+                                                                    Alignment
+                                                                        .center,
+                                                                width:
+                                                                    size.width *
+                                                                        0.15,
+                                                                decoration: BoxDecoration(
+                                                                    color: const Color(
+                                                                        0xffffea5b),
+                                                                    borderRadius:
+                                                                        BorderRadius.circular(
+                                                                            4)),
+                                                                child:
+                                                                    const Text(
+                                                                  'Read T&C',
+                                                                  style: TextStyle(
+                                                                      color: Colors
+                                                                          .black,
+                                                                      fontSize:
+                                                                          10,
+                                                                      fontWeight:
+                                                                          FontWeight
+                                                                              .w300),
+                                                                ),
                                                               ),
                                                             )
                                                           : SizedBox(),
@@ -918,35 +964,47 @@ class _EstimatedFareState extends State<EstimatedFare> {
                                                           height: size.height *
                                                               0.018),
                                                       onselect[index]
-                                                          ? Container(
-                                                              height: 20,
-                                                              margin:
-                                                                  const EdgeInsets
-                                                                          .only(
-                                                                      left: 5),
-                                                              alignment:
-                                                                  Alignment
-                                                                      .center,
-                                                              width:
-                                                                  size.width *
-                                                                      0.15,
-                                                              decoration: BoxDecoration(
-                                                                  color: const Color(
-                                                                      0xffffea5b),
-                                                                  borderRadius:
-                                                                      BorderRadius
-                                                                          .circular(
-                                                                              4)),
-                                                              child: const Text(
-                                                                'Read T&C',
-                                                                style: TextStyle(
-                                                                    color: Colors
-                                                                        .black,
-                                                                    fontSize:
-                                                                        10,
-                                                                    fontWeight:
-                                                                        FontWeight
-                                                                            .w300),
+                                                          ? GestureDetector(
+                                                              onTap: () {
+                                                                Navigator.push(
+                                                                    context,
+                                                                    MaterialPageRoute(
+                                                                        builder: ((context) =>
+                                                                            TermsConditions(
+                                                                              carinfo: normalCars[index],
+                                                                            ))));
+                                                              },
+                                                              child: Container(
+                                                                height: 20,
+                                                                margin:
+                                                                    const EdgeInsets
+                                                                            .only(
+                                                                        left:
+                                                                            5),
+                                                                alignment:
+                                                                    Alignment
+                                                                        .center,
+                                                                width:
+                                                                    size.width *
+                                                                        0.15,
+                                                                decoration: BoxDecoration(
+                                                                    color: const Color(
+                                                                        0xffffea5b),
+                                                                    borderRadius:
+                                                                        BorderRadius.circular(
+                                                                            4)),
+                                                                child:
+                                                                    const Text(
+                                                                  'Read T&C',
+                                                                  style: TextStyle(
+                                                                      color: Colors
+                                                                          .black,
+                                                                      fontSize:
+                                                                          10,
+                                                                      fontWeight:
+                                                                          FontWeight
+                                                                              .w300),
+                                                                ),
                                                               ),
                                                             )
                                                           : SizedBox(),

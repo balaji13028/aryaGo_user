@@ -2,7 +2,6 @@ import 'package:arya_go_user/drawers/slide_drawer.dart';
 import 'package:arya_go_user/screens/destination_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
-import 'package:location/location.dart';
 import 'package:latlong2/latlong.dart' as LatLng;
 
 class HomeScreen extends StatefulWidget {
@@ -14,7 +13,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   final GlobalKey<ScaffoldState> sliderKey = GlobalKey();
-  Location location = Location();
+
   late MapController mapController;
 
   @override
@@ -80,6 +79,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     TileLayer(
                       urlTemplate:
                           'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+
                       //userAgentPackageName: 'com.example.app',
                     ),
                   ],

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_res/release/values-in/values-in.xml",
+            "outputFile": "/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_res/release/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/Users/scholarlysolutionssm/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-in/values-in.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/Users/scholarlysolutionssm/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-in/values-in.xml",

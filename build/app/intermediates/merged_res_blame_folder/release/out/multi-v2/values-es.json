@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/scholarlysolutionssm/Desktop/arya_go_user/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
+            "outputFile": "/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
                     "source": "/Users/scholarlysolutionssm/.gradle/caches/transforms-3/8835b03bbee4ef0cabd04275c9d78b28/transformed/jetified-play-services-basement-16.0.1/res/values-es/values.xml",

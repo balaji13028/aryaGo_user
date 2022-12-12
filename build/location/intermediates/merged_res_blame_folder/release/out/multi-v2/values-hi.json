@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/merged_res/release/values-hi/values-hi.xml",
+            "outputFile": "/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/Users/scholarlysolutionssm/.gradle/caches/transforms-3/78b4e3e43df797fdeceb9cebd6004b2f/transformed/jetified-play-services-base-16.0.1/res/values-hi/values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/Users/scholarlysolutionssm/Desktop/arya_go_user/build/location/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml",
+            "outputFile": "/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/location/intermediates/merged_res/release/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/Users/scholarlysolutionssm/.gradle/caches/transforms-3/78b4e3e43df797fdeceb9cebd6004b2f/transformed/jetified-play-services-base-16.0.1/res/values-hi/values.xml",

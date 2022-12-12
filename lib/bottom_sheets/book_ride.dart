@@ -1,3 +1,5 @@
+import 'package:arya_go_user/cab_booking/searching_cab.dart';
+import 'package:arya_go_user/screens/home_screen.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 
@@ -91,7 +93,12 @@ class BookRide extends StatelessWidget {
               ),
             ),
             GestureDetector(
-              onTap: () async {},
+              onTap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: ((context) => const SearchingCab())));
+              },
               child: Container(
                 height: size.height * 0.05,
                 width: size.width * 0.4,

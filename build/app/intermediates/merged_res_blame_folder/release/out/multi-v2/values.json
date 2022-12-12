@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/scholarlysolutionssm/Desktop/arya_go_user/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/scholarlysolutionssm/Desktop/aryaGo_user/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/Users/scholarlysolutionssm/Desktop/arya_go_user/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "129,134",
-                        "startColumns": "4,4",
-                        "startOffsets": "9150,9458",
-                        "endLines": "133,136",
-                        "endColumns": "12,12",
-                        "endOffsets": "9453,9622"
-                    }
-                },
                 {
                     "source": "/Users/scholarlysolutionssm/.gradle/caches/transforms-3/89e3d4282810b041cf3bcc0e8d2c00eb/transformed/coordinatorlayout-1.0.0/res/values/values.xml",
                     "from": {
@@ -111,6 +92,25 @@
                         "startOffsets": "6608,7786",
                         "endColumns": "67,166",
                         "endOffsets": "6671,7948"
+                    }
+                },
+                {
+                    "source": "/Users/scholarlysolutionssm/Desktop/aryaGo_user/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "129,134",
+                        "startColumns": "4,4",
+                        "startOffsets": "9150,9458",
+                        "endLines": "133,136",
+                        "endColumns": "12,12",
+                        "endOffsets": "9453,9622"
                     }
                 },
                 {
